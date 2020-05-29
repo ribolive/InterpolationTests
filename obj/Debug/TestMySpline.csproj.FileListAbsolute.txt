@@ -1,0 +1,9 @@
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\bin\Debug\TestMySpline.exe.config
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\bin\Debug\TestMySpline.exe
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\bin\Debug\TestMySpline.pdb
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\obj\Debug\TestMySpline.csprojAssemblyReference.cache
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\obj\Debug\TestMySpline.exe
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\obj\Debug\TestMySpline.pdb
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\bin\Debug\MathNet.Numerics.dll
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\bin\Debug\MathNet.Numerics.xml
+C:\Users\gabriel.r.oliveira\Downloads\TestMySpline\obj\Debug\TestMySpline.csproj.CopyComplete
